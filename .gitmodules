@@ -1,3 +1,4 @@
 [submodule "sys/whisper.cpp"]
 	path = sys/whisper.cpp
-	url = https://github.com/ggerganov/whisper.cpp
+	url = git@github.com:kittynXR/whisper.cpp.git
+	branch = catnet-patches
